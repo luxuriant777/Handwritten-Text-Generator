@@ -40,15 +40,15 @@ Once you have Python installed, open your terminal or command prompt and run the
 python hwt-generator.py
 ```
 3. Enter your text into the provided text box.
-4. Use the interface buttons to apply styles to your text.
-5. Preview the changes in real time.
-6. When you're satisfied, select the font you want to use, from the list.
-7. Press "Export to Image" to save your design as a PNG image.
-
-##  Contributing
-We welcome contributions from everyone. If you're interested in enhancing the features of the Handwritten Text Image
-Generator, feel free to fork the repository and make your proposed changes. Then, submit a pull request detailing the
-changes you've made and how they improve the project.
+   ![Screenshot_1](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/e593b215-a623-4e74-8bb7-debd0802ca0b)
+5. Use the interface buttons to apply styles to your text.
+   ![Screenshot_2](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/e2835bad-3ed0-4f26-9e06-f94ab13d7012)
+7. Preview the changes in real time.
+8. When you're satisfied, select the font you want to use, from the list.
+   ![SucMtoe](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/7319ac2f-7717-4328-b653-7edc16e8f341)
+10. Press "Export to Image" to save your design as a PNG image.
+11. Open file `output.png` and enjoy the result!
+   ![output](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/711d125e-9297-45dc-a269-9177066c21e0)
 
 ## Licensing
 This project is licensed under the terms of the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
