@@ -45,9 +45,10 @@ Once you have Python installed, open your terminal or command prompt and run the
 
 4. Use the interface buttons to apply styles to your text.
 
+5. Preview the changes in real time.
+
    ![Screenshot_2](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/e2835bad-3ed0-4f26-9e06-f94ab13d7012)
 
-5. Preview the changes in real time.
 6. When you're satisfied, select the font you want to use, from the list.
 
    ![SucMtoe](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/7319ac2f-7717-4328-b653-7edc16e8f341)
