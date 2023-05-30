@@ -14,12 +14,12 @@ official site - https://www.python.org/.
 
 Once you have Python installed, open your terminal or command prompt and run these commands:
 
-1. wxPython is used for creating the GUI. Install it with:
+1. `wxPython` is used for creating the GUI. Install it with:
 
     ```bash
     pip install wxPython
     ```
-2. PIL (Pillow) is used for creating and manipulating images. Install it with:
+2. `PIL (Pillow)` is used for creating and manipulating images. Install it with:
     
     ```bash
     pip install Pillow
@@ -36,18 +36,25 @@ Once you have Python installed, open your terminal or command prompt and run the
     cd handwritten-text-image-generator
     ```
 2. Run the script:
-```bash
-python hwt-generator.py
-```
+   ```bash
+   python hwt-generator.py
+   ```
 3. Enter your text into the provided text box.
+
    ![Screenshot_1](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/e593b215-a623-4e74-8bb7-debd0802ca0b)
-5. Use the interface buttons to apply styles to your text.
+
+4. Use the interface buttons to apply styles to your text.
+
    ![Screenshot_2](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/e2835bad-3ed0-4f26-9e06-f94ab13d7012)
-7. Preview the changes in real time.
-8. When you're satisfied, select the font you want to use, from the list.
+
+5. Preview the changes in real time.
+6. When you're satisfied, select the font you want to use, from the list.
+
    ![SucMtoe](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/7319ac2f-7717-4328-b653-7edc16e8f341)
-10. Press "Export to Image" to save your design as a PNG image.
-11. Open file `output.png` and enjoy the result!
+
+7. Press "Export to Image" to save your design as a PNG image.
+8. Open file `output.png` and enjoy the result!
+
    ![output](https://github.com/luxuriant777/Handwritten-Text-Generator/assets/20545475/711d125e-9297-45dc-a269-9177066c21e0)
 
 ## Licensing
