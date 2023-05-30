@@ -33,7 +33,7 @@ Once you have Python installed, open your terminal or command prompt and run the
 ## Usage
 1. Navigate to the project directory:
     ```bash
-    cd handwritten-text-image-generator
+    cd Handwritten-Text-Generator
     ```
 2. Run the script:
    ```bash
